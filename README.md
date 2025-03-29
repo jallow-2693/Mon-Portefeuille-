@@ -14,7 +14,7 @@ Projets : Liste de mes projets en cours et réalisés
 Contact : Mes informations de contact
 
 
-Technologies utilisées
+Technologies utilisées pour le portfolio
 
 HTML : Structure du site
 
@@ -25,7 +25,7 @@ Comment utiliser
 
 1. Télécharger ou cloner ce projet :
 
-git clone https://github.com/ton-repo/portfolio.git
+git clone https://github.com/Mon-Portefeuille-/portfolio.git
 
 
 2. Ouvrir index.html dans un navigateur

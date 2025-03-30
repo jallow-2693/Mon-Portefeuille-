@@ -25,7 +25,7 @@ Comment utiliser
 
 1. Télécharger ou cloner ce projet :
 
-git clone https://github.com/Mon-Portefeuille-/portfolio.git
+git clone https://github.com/jallow-2693/portfolio.git
 
 
 2. Ouvrir index.html dans un navigateur
